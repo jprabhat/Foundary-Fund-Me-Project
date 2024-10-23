@@ -1,6 +1,7 @@
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+**MY FIRST HANDS ON PROJECT OF SOLIDITY USING FOUNDARY**
 
 Foundry consists of:
 
